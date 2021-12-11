@@ -8,11 +8,11 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat. The links to the files provided are txt because I was unable to access my Azure account after day three. Therefore, some of this project will be writted and some will have screenshots.
 
- [Elk-Stack Playbook](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Ansible/Elk-PlayBook.txt)
+ [Elk-Stack Playbook](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Ansible/Elk-PlayBook.yml)
  
- [FileBeat Playbook](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Ansible/FileBeatPlaybook.txt)
+ [FileBeat Playbook](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Ansible/FileBeatPlaybook.yml)
  
- [Metric Playbook](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Ansible/MetricPlaybook.txt)
+ [Metric Playbook](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Ansible/MetricPlaybook.yml)
 
 This document contains the following details:
 - Description of the Topologu
