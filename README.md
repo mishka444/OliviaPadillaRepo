@@ -4,7 +4,7 @@ ElkStack Project
 
 The files in this repository were used to configure the network depicted below.
 
-![Elk-Stack Diagram]()
+![Elk-Stack Diagram](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Diagram/ELK-Stack%20Diagram.drawio%20(1).png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat. The links to the files provided are txt because I was unable to access my Azure account after day three. Therefore, some of this project will be writted and some will have screenshots.
 
@@ -129,6 +129,8 @@ curl -L -O https://gist.githubusercontent.com/slape/58541585cc1886d2e26cd8be557c
 
 - Update the filebeat-playbook.yml file to include installer
 curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.6.1-amd64.deb
+
+![](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Ansible/Ansible%20Images/MetricBeat%20SC.png)
 
 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
