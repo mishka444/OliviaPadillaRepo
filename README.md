@@ -6,7 +6,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![Elk-Stack Diagram](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Diagram/ELK-Stack%20Diagram.drawio.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat. The links to the files provided are txt because I was unable to access my Azure account after day three. Therefore, some of this project will be writted and some will have screenshots.
 
  [Elk-Stack Playbook](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Ansible/Elk-PlayBook.txt)
  
