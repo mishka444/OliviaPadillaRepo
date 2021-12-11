@@ -56,12 +56,7 @@ The machine was accessed through the JumpBox with a personal IP
 
 A summary of the access policies in place can be found in the table below.
 
-| Name     | Publicly Accessible | Allowed IP Addresses |
-|----------|---------------------|----------------------|
-| Jump Box | Yes/No              | 10.0.0.1 10.0.0.2    |
-|          |                     |                      |
-|          |                     |                      |
-
+![](https://github.com/mishka444/OliviaPadillaRepo/blob/main/Images/Screen%20Shot%202021-12-11%20at%203.43.09%20PM.png)
 ### Elk Configuration
 
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because the system installation could be done more efficiently.
