@@ -30,9 +30,9 @@
        state: started
        restart_policy: always
        published_ports:
-         - 6709:6709
-         - 5200:5200
-         - 3077:3077
+         - 5601:5601
+         - 9200:9200
+         - 5044:5044
     # Use command module
    - name: Increase virtual memory
      command: sysctl -w vm.max_map_count=262168
